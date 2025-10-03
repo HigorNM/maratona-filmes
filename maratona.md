@@ -14,4 +14,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
 - [ ] Godzilla
-- [ ] Velosses e furiosos 3
+- [ ] Velozes e Furiosos 3
+- [ ] Harry Potter
+- [ ] Dungeons and Dragons
