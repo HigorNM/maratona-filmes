@@ -13,5 +13,7 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+- [ ] Godzilla
+- [ ] Velozes e Furiosos 3
 - [ ] Harry Potter
 - [ ] Dungeons and Dragons
